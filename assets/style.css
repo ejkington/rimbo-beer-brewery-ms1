@@ -55,8 +55,8 @@ h2 {
     letter-spacing: 6px;
     margin-top: 20px;
     text-transform: uppercase;
-    
-   
+
+
 }
 
 #nav-menu li {
@@ -69,14 +69,17 @@ h2 {
 #nav-menu a {
     text-decoration: none;
     color: inherit;
+
 }
 
 #nav-menu a:hover {
     border-bottom: 1px solid #3a3a3a;
+
 }
 
 #nav-menu a:active {
     border-bottom: 1px solid #3a3a3a;
+
 }
 
 
@@ -88,27 +91,32 @@ h2 {
     display: block;
     margin-left: 350px;
     margin-top: 30px;
+
 }
 
 #our-vision {
     text-align: center;
     margin-top: 200px;
+
 }
 
 .info {
     font-size: 30px;
     margin-top: 30px;
+
 }
 
 
 p {
     font-size: 25px;
     margin-top: 25px;
+
 }
 
 #beer-section {
     text-align: center;
     text-transform: capitalize;
+    
 }
 
 .diffrent-beers {
@@ -116,20 +124,21 @@ p {
     width: 300px;
     margin-left: 750px;
     margin-top: 50px;
+    
 }
 
 #lager-beer {
     background: url(../assets/images/lager-beer.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
-
+    
 }
 
 #ipa-beer {
     background: url(../assets/images/ipa-beer.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
-
+    
 }
 
 #sour-beer {
@@ -137,20 +146,26 @@ p {
     height: 100%;
     border-radius: 50%;
     background-size: cover;
-
+    
 }
 
 
 footer {
     height: 150px;
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+
 }
 
 .social-networks {
     text-align: center;
+
 }
 
 .social-networks li {
     display: inline;
+
 }
 
 .social-networks i {
@@ -158,4 +173,6 @@ footer {
     margin: 2%;
     padding: 5%;
     color: #3a3a3a;
+
 }
+
