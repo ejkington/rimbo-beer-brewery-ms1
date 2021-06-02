@@ -15,7 +15,7 @@ body {
 
 /* Logo and heading */
 
-h1 {
+#header-text {
     font-family: roboto, sans-serif;
     text-transform: uppercase;
     color: #7D7A79;
@@ -25,7 +25,9 @@ h1 {
     font-weight: 1000;
 }
 
-/* Hero image */ 
+
+
+/* Hero image and header text link */ 
 
 #hero-image {
   background: url(../assets/images/beer-header.jpg) no-repeat center center;
@@ -35,3 +37,13 @@ h1 {
   position: relative;
   margin-top: 20px;
 }
+
+#header-text a {
+    text-decoration: none;
+    color: #7D7A79;
+}
+
+
+
+
+
