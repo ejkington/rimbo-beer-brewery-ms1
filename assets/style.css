@@ -58,7 +58,7 @@ body {
 #nav-menu li {
     float: left;
     list-style-type: none;
-    margin-left: 300px;
+    margin-left: 330px;
 
 }
 
@@ -83,6 +83,7 @@ body {
     width: 60%;
     display: block;
     margin-left: 350px;
+    margin-top: 30px;
 }
 
 #our-vision {
@@ -95,3 +96,13 @@ body {
     margin-top: 30px;
 }
 
+
+p {
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+#beer-section {
+    text-align: center;
+    text-transform: capitalize;
+}
