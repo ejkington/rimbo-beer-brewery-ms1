@@ -50,13 +50,15 @@ body {
     font-size: 120%;
     letter-spacing: 6px;
     margin-top: 20px;
+    text-transform: uppercase;
+    
    
 }
 
 #nav-menu li {
     float: left;
     list-style-type: none;
-    margin-left: 200px;
+    margin-left: 300px;
 
 }
 
@@ -74,5 +76,22 @@ body {
 }
 
 
+/* Beers section */
 
+.underline {
+    border-bottom: 1px solid #3a3a3a;
+    width: 60%;
+    display: block;
+    margin-left: 350px;
+}
+
+#our-vision {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.info {
+    font-size: 30px;
+    margin-top: 30px;
+}
 
