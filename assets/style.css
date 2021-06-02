@@ -13,6 +13,10 @@ body {
     color: #7D7A79;
 }
 
+h2 {
+    color: white;
+}
+
 /* Logo and heading */
 
 #header-text {
@@ -105,4 +109,33 @@ p {
 #beer-section {
     text-align: center;
     text-transform: capitalize;
+}
+
+.diffrent-beers {
+    height: 300px;
+    width: 300px;
+    margin-left: 750px;
+    margin-top: 50px;
+}
+
+#lager-beer {
+    background: url(../assets/images/lager-beer.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    
+    
+}
+
+#ipa-beer {
+    background: url(../assets/images/ipa-beer.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#sour-beer {
+    background: url(../assets/images/sour-beer.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    background-size: cover;
+    
 }
