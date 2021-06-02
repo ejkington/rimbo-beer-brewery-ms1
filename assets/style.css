@@ -1,3 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
 body {
-    background-color: green;
+    font-family: roboto, sans-serif;
+    font-weight: 250;
+    color: #7D7A79;
+}
+
+/* Logo and heading */
+
+h1 {
+    font-family: roboto, sans-serif;
+    text-transform: uppercase;
+    color: #7D7A79;
+    letter-spacing: 10px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 1000;
+}
+
+/* Hero image */ 
+
+#hero-image {
+  background: url(../assets/images/beer-header.jpg) no-repeat center center;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 20px;
 }
