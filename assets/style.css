@@ -13,10 +13,6 @@ body {
     color: #7D7A79;
 }
 
-h2 {
-    color:green;
-}
-
 /* Logo and heading */
 
 #header-text {
@@ -35,18 +31,23 @@ h2 {
     
 }
 
+h2 {
+    color: darkgray;
+}
+
 
 
 /* Hero image and header text link */ 
 
 #hero-image {
-  background: url(../assets/images/beer-header.jpg) no-repeat center center;
-  width: 100%;
-  height: 400px;
-  overflow: hidden;
-  position: relative;
-  margin-top: 20px;
+    background: url(../assets/images/beer-header.jpg) no-repeat center center;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
 }
+  
 
 #header-text a {
     text-decoration: none;
@@ -109,33 +110,35 @@ h2 {
 #our-vision {
     text-align: center;
     margin-top: 200px;
-
 }
 
 .info {
     font-size: 30px;
     margin-top: 30px;
-
 }
 
 
 p {
     font-size: 25px;
     margin-top: 25px;
-
 }
 
-/*footer*/
+/* tours page */
+
+.tours {
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* footer */
 
 footer {
-    height: 150px;
-    position: fixed;
-
+    position:fixed;
+    bottom:25px;
 }
 
 .social-networks {
     text-align: center;
-
 }
 
 .social-networks > li {
@@ -144,7 +147,7 @@ footer {
 
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
+    margin: 2%;
     padding: 5%;
     color: #3a3a3a;
 }
