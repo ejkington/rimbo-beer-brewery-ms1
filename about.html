@@ -13,7 +13,7 @@
 
 
 <body>
-   
+   <!--Jeader, logo and text-->
 <header id="header-text">
     <a href="index.html">
 <h1>Rimbo Beer Brewery</h1>
@@ -43,16 +43,21 @@
         <a href="tours.html">Brewery Tours</a>
     </li>
     <li>
-        <a href="about.html">About Us/Contact</a>
+        <a href="about.html">Contact</a>
     </li>
 </ul>
 </nav>
+
+<section id="map-wrapper">
+    <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2010.3109048349334!2d18.365492916249142!3d59.744276784724526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fedc238c6dba5%3A0x7989394f961544e6!2sRimbo%20Badhus!5e0!3m2!1ssv!2sse!4v1622796853383!5m2!1ssv!2sse" width="80%" height="300"></iframe>
+  </section>
+
 
 <!--Form-->
 
 <section class="form-section">
     <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-        <h2>Sign up for our newsletter! </h2>
+        <h2>Contact Us! </h2>
         <label for="fname">First Name</label>
         <input id="fname" name="first_name" type="text" class="text-input" required>
         
@@ -61,9 +66,13 @@
         
         <label for="email">Email Address</label>
         <input type="email" id="email" name="email_address" class="text-input" required>
-        
+
+        <lable for="text-area">Message</lable>
+        <textarea id="text-area" rows="4" cols="55" name="comment" form="usrform" required></textarea>
         
         <input class="join-button" type="submit" value="Beer me up!">
+        
+    
     </form>
 </section>
 
@@ -96,3 +105,6 @@
     
 </body>
 </html>
+
+
+
