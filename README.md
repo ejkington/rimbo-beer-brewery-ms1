@@ -16,16 +16,16 @@
 -Featured on all 4 pages is the navigation bar full responsive whit links to, index page, our beers, contact and brewery tours. and is identical in each page to allow for easy navigation.
 - This section makes easy accsess to the full page whit a simple and easy to use navigation bar, without having to use the back button.
 
-## pitcure of nav bar
+## picture of nav bar
 
-- __The landing page image__
+-__The landing page image__
 
   - The landing includes a photograph whit the brewery logo to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to the brewery.
 
 ## picture of hero image and logo
 
-- __Our vision section__
+-__Our vision section__
 
   - The our vision section will allow the user to see the brewerys vision,
   - This user will see that the brewery is a craftsmanship dedicated to providing the best product.  
@@ -35,7 +35,7 @@
 ## picture of the vision message
 
 
-- __The Footer__ 
+-__The Footer__ 
 
   - The footer section includes links to the relevant social media sites for The brewery. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
@@ -44,14 +44,14 @@
 
 ## picture of the footer
 
-- __Our beers__
+-__Our beers__
 
   - The our beers will provide the user with supporting images and and explenation of what to expect when tasting the beer.
   - This section is valuable to the user as they will be able to easily identify the diffrent beers the brewery makes and a short explenation of what to expect when tasting 
 
 ## picture of our beers 
 
-- __Beer tours__
+-__Beer tours__
 
   - This page will allow the user to see what times and dates the brewery has its tours of the brewery The user will be able specify if they want to take a tour with tasting and dinner at the brewery.
   - at the bottom there is contact information to the brewery for booking of the tour.
