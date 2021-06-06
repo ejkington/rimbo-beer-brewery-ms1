@@ -1,59 +1,113 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Rimbo Beer Brewery.
 
-Welcome Niklas Tommy Färeborg,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- Index page, a minimalistic homepage whit the brewery moto
+- Our beers, page whit the brewerys beers
+- Contact page, page for contact information
+- Beer tours page, for the brewerys tours times and whats the tour includes.
 
-`python3 -m http.server`
+## Existing Features
 
-A blue button should appear to click: _Make Public_,
+-__ Navigation Bar __
 
-Another blue button should appear to click: _Open Browser_.
+-Featured on all 4 pages is the navigation bar full responsive whit links to, index page, our beers, contact and brewery tours. and is identical in each page to allow for easy navigation.
+- This section makes easy accsess to the full page whit a simple and easy to use navigation bar, without having to use the back button.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## pitcure of nav bar
 
-A blue button should appear to click: _Make Public_,
+- __The landing page image__
 
-Another blue button should appear to click: _Open Browser_.
+  - The landing includes a photograph whit the brewery logo to allow the user to see exactly which location this site would be applicable to. 
+  - This section introduces the user to the brewery.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## picture of hero image and logo
 
-To log into the Heroku toolbelt CLI:
+- __Our vision section__
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  - The our vision section will allow the user to see the brewerys vision,
+  - This user will see that the brewery is a craftsmanship dedicated to providing the best product.  
+  - This should encourage the user to explore the site more. 
+  - whit images of the 3 diffrent beer styles that the brewery provides at this point. 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+## picture of the vision message
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- __The Footer__ 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+  - The footer section includes links to the relevant social media sites for The brewery. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - its fixed at the bottom left of the page for easy accsess at all times.
+  - copyright of the author
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+## picture of the footer
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- __Our beers__
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+  - The our beers will provide the user with supporting images and and explenation of what to expect when tasting the beer.
+  - This section is valuable to the user as they will be able to easily identify the diffrent beers the brewery makes and a short explenation of what to expect when tasting 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## picture of our beers 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- __Beer tours__
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  - This page will allow the user to see what times and dates the brewery has its tours of the brewery The user will be able specify if they want to take a tour with tasting and dinner at the brewery.
+  - at the bottom there is contact information to the brewery for booking of the tour.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## picture of Beer tours
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+-__Contact__
 
----
+-This page will have the location of the brewery in google maps.
+-Form for sending a message to the brewery with questions or ordering the brewery beers to their resturant or bar.
 
-Happy coding!
+## Features left to implent
+
+- More beer that the brewery makes
+- links to resturants and bars that has the brewery beers in stock
+- an pop up for confirming the age of the user at the start page
+- popup for accepting cookies
+
+
+## testing
+
+
+
+### Validator testing
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](Link to the test)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](Link to the test)
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - Link to the live site
+
+## Credits
+
+All code was written by the developer
+
+
+### Content
+
+- The text for the Home page was writen by the developer
+- The text for the tast of the beer was taken from https://www.tastings.com/
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media 
+
+- The images  used on all the pages was taken from https://www.istockphoto.com/
+
+
+
+
+
+  
