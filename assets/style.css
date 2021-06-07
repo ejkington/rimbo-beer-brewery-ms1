@@ -291,6 +291,12 @@ footer {
         
         margin-left: 195px;
     }
+
+    .our-beers {
+     width: 75%;
+     margin-left: 110px;
+     text-align: center;
+}
     
 }
 
@@ -318,4 +324,11 @@ footer {
         
         margin-left: 65px;
     }
+
+    .our-beers {
+        width: 75%;
+        margin-left: 110px;
+        text-align: center;
+        padding-bottom: 50px;
+   }
 }
