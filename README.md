@@ -13,7 +13,7 @@
 
 -__ Navigation Bar __
 
--Featured on all 4 pages is the navigation bar full responsive whit links to, index page, our beers, contact and brewery tours. and is identical in each page to allow for easy navigation.
+-Featured on all 4 pages is the navigation bar responsive 1200px and 950px whit links to, index page, our beers, contact and brewery tours. and is identical in each page to allow for easy navigation.
 - This section makes easy accsess to the full page whit a simple and easy to use navigation bar, without having to use the back button.
 
 ## picture of nav bar
@@ -27,7 +27,7 @@
 
 -__Our vision section__
 
-  - The our vision section will allow the user to see the brewerys vision,
+  - The our vision section on the landing page will allow the user to see the brewerys vision,
   - This user will see that the brewery is a craftsmanship dedicated to providing the best product.  
   - This should encourage the user to explore the site more. 
   - whit images of the 3 diffrent beer styles that the brewery provides at this point. 
@@ -69,6 +69,7 @@
 - links to resturants and bars that has the brewery beers in stock
 - an pop up for confirming the age of the user at the start page
 - popup for accepting cookies
+- slide show of pictures of the brewery on the header image
 
 
 ## testing
@@ -93,7 +94,8 @@ The live link can be found here - Link to the live site
 
 ## Credits
 
-All code was written by the developer
+All code was written by the developer.
+whit support from the slack community
 
 
 ### Content
@@ -101,6 +103,7 @@ All code was written by the developer
 - The text for the Home page was writen by the developer
 - The text for the tast of the beer was taken from https://www.tastings.com/
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- the page is made up and not a real brewery.
 
 ### Media 
 
