@@ -263,17 +263,59 @@ footer {
     
 }
 
-/* for medium screen sizes from 950px wide and down */
+/* for medium screen sizes from 1200px wide and down */
 
 @media screen and (max-width:1200px) {
     #header-text {
         width: 65%;
         margin: 0 auto;
     }
+    
     #nav-menu {
-        clear: both;
-        float: left;
-        margin: 0 auto;
+        font-size: 120%;
+        letter-spacing: 6px;
+        margin-top: 20px;
+        text-transform: uppercase;
+    
+    
     }
     
+    #nav-menu li {
+        float: left;
+        list-style-type: none;
+        margin-left: 145px;
+
+    }
+
+    #logo {
+        
+        margin-left: 195px;
+    }
+    
+}
+
+/* for medium screen sizes from 950px wide and down */
+
+@media screen and (max-width:950px) { 
+  
+    #nav-menu {
+        font-size: 120%;
+        letter-spacing: 6px;
+        margin-top: 20px;
+        text-transform: uppercase;
+    
+    
+    }
+    
+    #nav-menu li {
+        float: left;
+        list-style-type: none;
+        margin-left: 90px;
+
+    }
+
+    #logo {
+        
+        margin-left: 65px;
+    }
 }
