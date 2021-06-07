@@ -17,16 +17,17 @@
 - This section makes easy accsess to the full page whit a simple and easy to use navigation bar, without having to use the back button.
 
 ## picture of nav bar
+![Navigation bar](assets/images/nav-bar.png
 
 -__The landing page image__
 
-  - The landing includes a photograph whit the brewery logo to allow the user to see exactly which location this site would be applicable to. 
+  - The landing includes a photograph whit the brewery logo to allow the user to see exactly what the site is for.
   - This section introduces the user to the brewery.
 
 ## picture of hero image and logo
 
-![Brewery logo]
-(assets/images/Rimbo-logo.png)
+![Brewery logo](assets/images/Rimbo-logo.png)
+![Header image](assets/images/beer-header.jpg)
 
 -__Our vision section__
 
