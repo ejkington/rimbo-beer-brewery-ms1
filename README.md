@@ -26,7 +26,7 @@
 ## picture of hero image and logo
 
 ![Brewery logo]
-(https://github.com/ejkington/rimbo-beer-brewery-ms1/blob/master/assets/images/Rimbo-logo.png?raw=true)
+(assets/images/Rimbo-logo.png)
 
 -__Our vision section__
 
