@@ -297,6 +297,11 @@ footer {
      margin-left: 110px;
      text-align: center;
 }
+
+    #map-wrapper {
+        width: 90%;
+        margin-left: 300px;
+    }
     
 }
 
