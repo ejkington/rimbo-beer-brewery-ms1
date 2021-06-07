@@ -270,6 +270,10 @@ footer {
       
       }
 
+      .underline {
+          display: none;
+      }
+
       #logo {
           left: 0;
       }
