@@ -227,3 +227,71 @@ footer {
 #text-area {
     border: 1px solid #3a3a3a;
 }
+
+
+
+
+/* media queries */
+/* for large to medium screens size 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #our-vision  {
+        width: 65%;
+        height: 1200px;
+        margin-top: 200px;
+        text-align: center;
+        margin-left: 250px;
+    }
+
+    .diffrent-beers {
+        clear: both;
+        width: 100%;
+        float: right;
+        padding: 0;
+      
+        
+    }
+
+    .underline {
+        display: none;
+    }
+
+}
+
+
+/* for medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #nav-menu {
+      float: left;
+      clear: left;
+      margin-top: 20px;
+      margin-left: 30px;
+      line-height: 25px;
+      
+      }
+
+      #logo {
+          left: 0;
+      }
+
+      #our-vision {
+          width: 90%;
+          height: 1200px;
+          margin-top: 200px;
+          text-align: center;
+      }
+
+      .diffrent-beers {
+          width: inherit;
+      }
+
+      h1 {
+         width: 100%;
+         text-align: center; 
+      }
+
+      p {
+          text-align: center;
+          padding: 0 20px;
+      }
+}
