@@ -25,6 +25,9 @@
 
 ## picture of hero image and logo
 
+![Brewery logo]
+(https://github.com/ejkington/rimbo-beer-brewery-ms1/blob/master/assets/images/Rimbo-logo.png?raw=true)
+
 -__Our vision section__
 
   - The our vision section on the landing page will allow the user to see the brewerys vision,
