@@ -17,7 +17,7 @@
 - This section makes easy accsess to the full page whit a simple and easy to use navigation bar, without having to use the back button.
 
 ## picture of nav bar
-![Navigation bar](assets/images/nav-bar.png
+![Navigation bar](assets/images/nav-bar.png)
 
 -__The landing page image__
 
