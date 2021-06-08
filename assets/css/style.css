@@ -304,50 +304,46 @@ textarea {
         float: right;
         padding: 0;
     }
-    
-}
 
-/* for medium screen sizes from 1200px wide and down */
-
-@media screen and (max-width:1200px) {
     #header-text {
         width: 65%;
         margin: 0 auto;
     }
-    
+        
     #nav-menu {
         font-size: 120%;
         letter-spacing: 6px;
         margin-top: 20px;
         text-transform: uppercase;
-    
-    
-    }
-    
-    #nav-menu li {
-        float: left;
-        list-style-type: none;
-        margin-left: 145px;
-
-    }
-
-    #logo {
         
-        margin-left: 195px;
+        
     }
-
-    .our-beers {
-     width: 75%;
-     margin-left: 110px;
-     text-align: center;
-}
-
-    #map-wrapper {
-        width: 90%;
-        margin-left: 300px;
+        
+        #nav-menu li {
+            float: left;
+            list-style-type: none;
+            margin-left: 145px;
+    
+    }
+    
+        #logo {
+            
+            margin-left: 195px;
+    }
+    
+        .our-beers {
+         width: 75%;
+         margin-left: 110px;
+         text-align: center;
+    }
+    
+        #map-wrapper {
+            width: 90%;
+            margin-left: 300px;
     }
     
 }
+
 
 /* for medium screen sizes from 950px wide and down */
 
@@ -379,5 +375,78 @@ textarea {
         margin-left: 110px;
         text-align: center;
         padding-bottom: 50px;
-   }
+    }
+
+   #map-wrapper {
+    width: 90%;
+    margin-left: 150px;
+    }
 }
+
+/* for small screen sizes from 480px wide and down */
+
+@media screen and (max-width:480px) {
+
+    #nav-menu {
+        font-size: 120%;
+        letter-spacing: 3px;
+        margin-top: 20px;
+        text-transform: uppercase;
+    
+    
+    }
+    
+    #nav-menu li {
+        float: left;
+        list-style-type: none;
+        margin-left: 100px;
+        text-decoration: underline;
+    }
+
+    #logo {
+        margin-left: 85px;
+    }
+
+    footer {
+        position: static;
+        bottom: 0;
+        float: left;
+        margin-left: 120px;
+        font-size: 20px;
+    }
+    
+    .social-networks {
+        text-align: center;
+    }
+    
+    .social-networks > li {
+        display: inline;
+    }
+    
+    .social-networks i {
+        font-size: 100%;
+        margin: 2%;
+        padding: 5%;
+        color: #363030;
+    }
+
+    .diffrent-beers > img {
+        margin-left: 20px;
+    }
+
+    .our-beers > img {
+        width: 70%;
+        height: 40%;
+    }
+
+    .our-beers {
+        margin-left: 45px;
+        margin-right: auto;
+    }
+    
+    #map-wrapper {
+        width: 90%;
+        margin-left: 55px;
+    }
+
+}    
