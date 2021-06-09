@@ -68,25 +68,25 @@ The website will consist of 4 separate pages
 
 ## Features across all pages.
 
-###Navigation Bar
+### Navigation Bar
 
 The navigation bar sits under the hero image. the bar when hovered shows a solid black underline.
 The navigation links directs the user to the correct page of the website.
 When the rimbo beer brewery text is pressed it takes the user to the main page.
 On larger screens the navigation bar is horizontal and centered. on smaller screens it stacks verticaly in the center and has a black underline.
 
-###Responsiveness
+### Responsiveness
 The page is scaled up and down for different screen resolutions to help the content stay neat. This has been done using of media queries.
 
-###Accessibility
+### Accessibility
 All images and navigations have an alt attributes. This is to make the site easier to use for people with visual impairments by allowing them to navigate the site easily. There is high contrast used throughout the design. Header elements have been used in sequence so that the site makes semantic sense to screen readers. Links are consistent when hovered over. I have also set the font to rem so that if someone has their font settings higher for visibility the font size will increase accordingly.
 
-###Footer
+### Footer
 
 The footer consists of social media links and will open in a new tab.
 and a copywrite of the author.
 
-###Meta data
+### Meta data
 I have included descriptions, author, and keywords into the head element to increase traffic to the website. I have also labelled each page differently so that if the user has multiple tabs open it is easy to recognise each tab.
 
 ## Features specific to page
@@ -162,7 +162,7 @@ The images  used on all the pages was taken from https://www.istockphoto.com/
 * I have used paddings and margins to make sure that the content is not too close together.
 
 
-## testing
+## Testing
 
 * Nav links work and the user is directed to the correct page of the site. 
 * heading text takes the user back to the main page.
@@ -175,15 +175,17 @@ Tested on iOS, Android 10, and Windows 10.
 
 ### Performance Testing
 Tested on the Developer Tools Lighthouse.
-![Lighthouse results](README-files/lighthouse.png)
+![Lighthouse results](README-files/Lighthouse.png)
 
 
 ### Validator testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](Link to the test)
+  - No errors were returned when passing through the official [W3C validator]
+  - ![HTML validator](README-files/html-validator.png)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](Link to the test)
+  - No errors were found when passing through the official [(Jigsaw) validator]
+  - ![Css-valid](README-files/css-valid.png)
 
 ### Adding and commiting files
 
@@ -237,7 +239,10 @@ The project was deployed with the following steps
 
 - The images  used on all the pages was taken from https://www.istockphoto.com/
 
+### Inspiration
 
+https://https://www.stockholmbrewing.com/
+https://http://www.roslagensbrygghus.se/
 
 
 
