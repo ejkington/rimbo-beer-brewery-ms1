@@ -126,6 +126,8 @@ Showing the times for when the brewery has tours of the brewery and showing date
 - an pop up for confirming the age of the user at the start page.
 - popup for accepting cookies.
 - slide show of pictures of the brewery on the header image.
+- changing footer for small screens
+
 
 
 ## Technologies Used 
@@ -219,6 +221,7 @@ The project was deployed with the following steps
 ### Credits
 * Brian Macharia- Mentor support, guidance, tips, looking at my code. 
 * The slack community.
+* Rebecca Kelsall for inpiration on the readme.md file
 
 * [Code Institute README Template](https://github.com/Code-Institute-Solutions/readme-template)
 * [W3schools](https://www.w3schools.com/) - for various code information and trouble shooting.
@@ -242,6 +245,7 @@ The project was deployed with the following steps
 ### Inspiration
 
 https://https://www.stockholmbrewing.com/
+
 https://http://www.roslagensbrygghus.se/
 
 
