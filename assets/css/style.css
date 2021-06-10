@@ -62,7 +62,7 @@ h2 {
     letter-spacing: 6px;
     margin-top: 20px;
     text-transform: uppercase;
-    
+
 }
 
 #nav-menu li {
@@ -272,7 +272,6 @@ textarea {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
-
     }
 
     .underline {
@@ -303,15 +302,12 @@ textarea {
         letter-spacing: 6px;
         margin-top: 20px;
         text-transform: uppercase;
-
-
     }
 
     #nav-menu li {
         float: left;
         list-style-type: none;
         margin-left: 145px;
-
     }
 
     #logo {
@@ -344,7 +340,7 @@ textarea {
         text-transform: uppercase;
         display: flex;
         align-items: center;
-}
+    }
 
     #nav-menu li {
         float: left;
@@ -362,6 +358,7 @@ textarea {
         margin-left: 110px;
         text-align: center;
         padding-bottom: 50px;
+        float: none;
     }
 
     #map-wrapper {
@@ -381,7 +378,7 @@ textarea {
     }
 
     .signup-form {
-       left: 5%;
+        left: 5%;
     }
 }
 
@@ -398,12 +395,10 @@ textarea {
         flex-direction: column;
         align-items: center;
         margin-bottom: 50px;
-
-
     }
 
     #nav-menu li {
-        
+
         list-style-type: none;
         text-decoration: underline;
         margin-left: auto;
@@ -450,6 +445,7 @@ textarea {
     .our-beers {
         margin-left: 45px;
         margin-right: auto;
+        float: none;
     }
 
     #map-wrapper {
@@ -461,10 +457,40 @@ textarea {
         margin-top: 25px;
     }
 
-    .signup-form { 
+    .signup-form {
         left: 0%;
         margin-left: 20px;
         margin-right: 20px;
     }
 
+    .diffrent-beers {
+        margin-top: 0;
+    }
+
+}
+
+/* for small screen sizes from 375px wide and down */
+
+@media screen and (max-width:375px) {
+
+    .diffrent-beers {
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    footer {
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        position: sticky;
+    }
+
+    #sour-beer {
+        margin-left: 85px;
+    }
+
+    .diffrent-beers>img {
+        margin-bottom: 0;
+    }
 }
