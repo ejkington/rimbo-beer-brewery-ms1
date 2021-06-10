@@ -1,3 +1,4 @@
+
 # Rimbo Beer Brewery.
 
 [Link to Live Website](https://ejkington.github.io/rimbo-beer-brewery-ms1/)
@@ -165,13 +166,12 @@ The images  used on all the pages was taken from https://www.istockphoto.com/
 
 ## Testing
 
-| Test | | Test action | Expected outcome | Test outcome |
--------- |------------------- | -------------------- | ------- |
-| Navigation links | Clicking the links | Directed to the right page | PASS |
-| Hover effect | Hovering over links | Solid black underline | PASS |
-| Social media links | Clicking the links | Taken to social media in a new tab | PASS |
-| Form | Filling in form | Required fields popup | Test outcome | PASS |
-| Form email | Only accepts valid email | Form not completed and cant send | PASS |
+Test | Test action | Expected outcome      | Test outcome
+------- | ---------------- | ---------- | ---------:
+Navigation links  | Clicking the links | Directed to the right page | PASS
+Hover effect  |  Hovering over links        | Solid black underline       | PASS
+Social media links   | Clicking the links | Taken to social media in a new tab    | PASS
+Form   | Filling in form | Required fields popup if not done correctly    | PASS
 
 
 ### Compatibility
